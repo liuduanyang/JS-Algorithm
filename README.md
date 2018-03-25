@@ -17,3 +17,13 @@
 
 链表的介绍及实现  
 双向链表的介绍及实现  
+
+### 四、 数
+
+树的介绍及实现  
+实现二叉搜索树(BST)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在BST中插入任一节点  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BST的三种遍历方法（中序遍历、先序遍历、后序遍历）  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;查找BST节点的最小、最大值  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;判断BST中是否存在某值  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;删除BST中指定的节点(难点)
